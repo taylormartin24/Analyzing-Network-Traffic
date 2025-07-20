@@ -3,6 +3,13 @@
 # Analyzing Network Traffic
 I created two virtual machines in Azure and used Wireshark to analyze the network traffic between them.
 
+## Technologies and Tools Used
+- Microsoft Azure (Virtual Machine/Compute)
+- Remote Desktop
+- Windows 11 Pro
+- Ubuntu Server 22.04 LTS
+- Wireshark
+
 ## Creating the Virtual Machines
 In this part of the lab, I had to create the Resource Group by giving it a name and a region location.
 <img width="1281" height="676" alt="Create Resource Group" src="https://github.com/user-attachments/assets/36b00504-33a0-4348-99b1-7a15e8451b55" />
