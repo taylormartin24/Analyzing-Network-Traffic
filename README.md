@@ -32,7 +32,7 @@ Downloaded and Installed Wireshark.
 Opened Wireshark and observed the initial network traffic.
 <img width="1280" height="764" alt="Open Wireshark and Observe initial traffic" src="https://github.com/user-attachments/assets/44dda47e-ba43-4deb-aaa8-c289030646e4" />
 
-Filtered for ICMP or Ping Traffic before I began to ping my Linux Virtual Machine.
+Filtered for ICMP or Ping traffic before I began to ping my Linux Virtual Machine.
 <img width="1280" height="764" alt="filtered ping traffic before pinging" src="https://github.com/user-attachments/assets/03fd44b9-78fd-4504-b964-cb6db502d61a" />
 
 Pinged the Linux Virtual Machine using PowerShell.
